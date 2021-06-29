@@ -1,0 +1,40 @@
+{
+  "name": "upbit-api",
+  "version": "0.10.4",
+  "description": "This is an API that makes Upbit OpenAPI easy to use.",
+  "main": "index.js",
+  "keywords": [
+    "backend",
+    "api",
+    "upbit",
+    "cryptocurrency",
+    "exchange",
+    "업비트",
+    "코인",
+    "암호화폐",
+    "library"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": {
+    "name": "Shin-JaeHeon",
+    "email": "shinjaeheon520614@gmail.com",
+    "url": "https://shinjaeheon.tistory.com"
+  },
+  "bug": {
+    "url": "https://github.com/Shin-JaeHeon/upbit-api/issues",
+    "email": "shinjaeheon520614@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shin-JaeHeon/upbit-api.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.88.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.1"
+  }
+}
